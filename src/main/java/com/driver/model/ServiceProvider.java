@@ -32,7 +32,7 @@ public class ServiceProvider {
         this.id = id;
     }
 
-    public String getName() {
+    public List<ServiceProvider> getName() {
         return name;
     }
 
